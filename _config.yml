@@ -70,3 +70,4 @@ theme: next
 deploy:
   type: git
   repository: git@github.com:machpng/machpng.github.io.git
+  branch: master
